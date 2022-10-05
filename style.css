@@ -75,4 +75,35 @@ color: white;
 
 /* ========= main content styling  end=============  */
 /* ========= have idea for a book styling  start=============  */
+.idea__for__book{
+    background-image: url('images/img.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 100%;
+      height: 100vh;
+}
+.idea__h1{
+    padding-left:450px;
+    padding-top: 60px;
+    font-size: 28px;
+    text-transform: capitalize;
+}
+.idea__content{
+    display: flex;
+    justify-content: space-evenly;
+}
+.idea__content__one{
+    width: 26%;
+    font-size: 22px;
+    margin-top: 4%;
+}
+.idea__content__one p {
+    margin: 6px 0px ;
+    line-height: 38px;
+    color: white;
+}
+.idea__content__two{
+    margin-top: 2%;
+
+}
 /* ========= have idea for a book styling  end=============  */
