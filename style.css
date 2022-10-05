@@ -107,3 +107,48 @@ color: white;
 
 }
 /* ========= have idea for a book styling  end=============  */
+/* ========= top srticle  styling  start=============  */
+.top__article{
+    width: 100%;
+
+}
+.artile__div__one{
+    display: flex;
+    margin-top: 6%;
+    justify-content: space-evenly   ;
+}
+.artile__div__one div{
+    width: 40%;
+
+}
+.artile__div__one div h1{
+    width: 85%;
+    margin: 12px 0px;
+    
+}
+.artile__div__one div p{
+    width: 85%;
+}
+.artile__div__two{
+    display: flex;
+    margin-top: 6%;
+    justify-content: space-evenly   ;
+}
+.artile__div__two div{
+    width: 40%;
+
+}
+.artile__div__two div h1{
+    width: 85%;
+    margin: 12px 0px;
+    
+}
+.artile__div__two div p{
+    width: 85%;
+}.article__img{
+    width: 202px ;
+    /* align-items: center; */
+    margin-left: 80px;
+    height: 30vh;
+}
+/* ========= top srticle  styling  end=============  */
