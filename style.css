@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* =========nav bar codding start =============  */
+
+.navbar{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    width: 20%;
+    height: auto;
+}
+.logo img{
+    margin: 2% 6%;
+}
+.header__item{
+    width: 60%;
+    height: auto;
+
+}
+.nav__ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin-top: 22px;
+    margin-left: 2%;
+    border: 2px solid rgb(238, 226, 226);
+    background-color: rgba(207, 194, 194, 0.805);
+    padding: 8px 10px ;
+}
+
+.nav__ul li:hover{
+background-color: black;
+color: white;
+/* border: 2px solid rgb(238, 226, 226); */
+
+/* padding: 2px 5px ; */
+
+}
+.liner{
+    width: 100%;
+    border:1px solid rgba(207, 194, 194, 0.805);
+
+}
+/* =========nav bar codding  end=============  */
