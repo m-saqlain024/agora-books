@@ -42,7 +42,6 @@ color: white;
 
 }
 .liner{
-    width: 100%;
     border:1px solid rgba(207, 194, 194, 0.805);
 
 }
@@ -152,3 +151,34 @@ color: white;
     height: 30vh;
 }
 /* ========= top srticle  styling  end=============  */
+/* ========  our services    styling  start=============  */
+.our__services{
+    width: 100%;
+    height: 98vh;
+    background-image: url('images/img2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.our__services h1{
+    padding: 32px 500px; 
+    font-size: 30px;
+    color: aliceblue;
+}
+.services__main{
+    display: flex;
+justify-content: space-around;
+}
+.services__container{
+    width: 250px;
+    height: 70vh;
+    padding: 12px 60px ;
+    background-color: aliceblue;
+}
+/* .services__container h1{
+    color: white;
+    background-color: aqua;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+} */
+/* =========  our services   styling  end=============  */
